@@ -3,8 +3,8 @@ import time
 import schedule
 from bs4 import BeautifulSoup
 
-BOT_TOKEN = "BURAYA_TOKEN_YAZMA"
-CHAT_ID = "BURAYA_CHAT_ID_YAZMA"
+BOT_TOKEN = "8505598275:AAE-tixbmUMiRByNI2Ui2bWJ7LhI8g2Dr_4"
+CHAT_ID = "7020744731"
 
 URUNLER = [
     "GTX 1060 6GB",
